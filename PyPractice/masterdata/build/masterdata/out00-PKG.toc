@@ -1,0 +1,72 @@
+('D:\\Python\\PyPractice\\masterdata\\build\\masterdata\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('out00-PYZ.pyz',
+   'D:\\Python\\PyPractice\\masterdata\\build\\masterdata\\out00-PYZ.pyz',
+   'PYZ'),
+  ('struct',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_qt5',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_qt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_traitlets',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_traitlets.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_mpldata',
+   'd:\\program files '
+   '(x86)\\continuum\\anaconda3\\envs\\py35_64\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_mpldata.py',
+   'PYSOURCE'),
+  ('masterdata',
+   'D:\\Python\\PyPractice\\masterdata\\masterdata.py',
+   'PYSOURCE'),
+  ('masterdata.exe.manifest',
+   'D:\\Python\\PyPractice\\masterdata\\build\\masterdata\\masterdata.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
